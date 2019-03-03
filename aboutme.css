@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://media.giphy.com/media/nIM0pmYCPZ11S/giphy.gif');
+    background-size: cover;
+}
+.row{   
+
+    background-color:#28342C;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:45%}
+.mid{
+    background-color:transparent;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+.footer{
+display: flex;
+justify-content: space-between;}

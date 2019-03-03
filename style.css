@@ -1,6 +1,6 @@
 .row{   
 
-    background-color:#28342C;
+    background-color:transparent;
     color:white;
     font-size:20px;
 }
@@ -19,7 +19,7 @@
 }
 .footer{
 display: flex;
-justify-content: space-between;
+justify-content: space-around;
 
 }
 body{
@@ -27,3 +27,39 @@ body{
     background-size: cover;
 }
 
+#ok{
+    background-color:red;
+    width:60px;
+}
+#ook{
+    background-color:black;
+    width:80px;
+}
+#ko{
+    background-color:green;
+    width:51px;
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+#H{background-color:yellow;
+}
+#K{background-color:grey;
+}
+#L{background-color:orange;
+}
+#d{
+    
+}
+.pages{
+    display: flex;
+justify-content: space-around;
+
+}
+.LINKS{
+    display: flex;
+justify-content: space-around;
+}
